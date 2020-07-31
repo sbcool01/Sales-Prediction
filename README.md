@@ -13,6 +13,9 @@ One of the largest retail chains in the world wants to use their vast data sourc
 However, no other information regarding stores and products are available.
 
 The notebook includes-
+
 Data visualisation- both univarite and bivariate analysis
+
 Feature Engineering, mainly from week information
+
 Model training and testing
