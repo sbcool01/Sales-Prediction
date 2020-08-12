@@ -16,6 +16,6 @@ The notebook includes-
 
 Data visualisation- both univarite and bivariate analysis
 
-Feature Engineering, mainly from week information
+Feature Engineering, mainly from week information and store size and popularity
 
 Model training and testing
